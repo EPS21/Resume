@@ -140,6 +140,10 @@ ul {
 	color: #000a7d;	
 }
 
+.work-project-title {
+	color: #000a7d;	
+}
+
 /* Left-aligned */
 .work-dates
 {
@@ -160,21 +164,25 @@ ul {
 	width:640px; padding-left: 10px;
 	margin-top: 0px;
 }
+
 .work-job-title{
 	font-weight: bold;
 	font-size: 14pt;
-//	border: 1px solid #999999;
+}
+
+.work-project-title {
+	font-weight: bold;
+	font-size: 14pt;
+	color: #000a7d;	
 }
 
 .work-company-details{
 	font-size: 12px;
 	font-weight: bold;
-//	border: 1px solid #999999;
 }
 
 .work-location{
 	float:right;
-//	border: 1px solid #999999;
 }
 
 
