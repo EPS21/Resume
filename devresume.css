@@ -2,6 +2,11 @@
 General Formatting
 **/
 
+#skills-list {
+  list-style: circle;
+  font-weight: bold;
+}
+
 main {
 	/* font-family: Tahoma, sans-serif; */
 	font-family: Trebuchet MS;
