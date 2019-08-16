@@ -2,6 +2,11 @@
 General Formatting
 **/
 
+#skills-list {
+  list-style: circle;
+  font-weight: bold;
+}
+
 main {
 	/* font-family: Tahoma, sans-serif; */
 	font-family: Trebuchet MS;
@@ -140,6 +145,10 @@ ul {
 	color: #000a7d;	
 }
 
+.work-experience-list {
+  font-size: 12pt;
+}
+
 /* Left-aligned */
 .work-dates
 {
@@ -162,8 +171,8 @@ ul {
 }
 .work-job-title{
 	font-weight: bold;
-	font-size: 14pt;
-//	border: 1px solid #999999;
+  font-size: 14pt;
+  color: #000a7d;	
 }
 
 .work-company-details{
