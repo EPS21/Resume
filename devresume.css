@@ -170,20 +170,19 @@ ul {
 	margin-top: 0px;
 }
 .work-job-title{
-	font-weight: bold;
+  font-weight: bold;
   font-size: 14pt;
-  color: #000a7d;	
+  color: #000a7d;
+  margin-bottom: 3px;	
 }
 
 .work-company-details{
-	font-size: 12px;
+	font-size: 13px;
 	font-weight: bold;
-//	border: 1px solid #999999;
 }
 
 .work-location{
 	float:right;
-//	border: 1px solid #999999;
 }
 
 
