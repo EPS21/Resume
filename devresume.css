@@ -2,6 +2,12 @@
 General Formatting
 **/
 
+#toplel {
+	margin: 0 0 0 0;
+	font-size: 2px;
+	color: white;
+}
+
 #skills-list {
   list-style: circle;
   font-weight: bold;
